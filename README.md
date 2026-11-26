@@ -74,3 +74,18 @@ ORCID: https://orcid.org/0009-0001-1154-4746
 **Aynalem Woldargay**
 
 Software Testing | Quality Assurance | Open-Source Technology
+
+
+**Find Me for Professional Opportunities**
+
+Available for paid freelance and remote assignments in Software Testing and Quality Assurance.
+
+GitHub Portfolio: https://github.com/aynalemwaregay-tech/software-testing-portfolio
+
+Test IO: https://test.io/company/become-a-tester
+
+Tester Work: https://testerwork.com/
+
+Upwork: https://www.upwork.com/
+
+Professional Website: https://sites.google.com/view/aynalem-woldargay-professional/home
